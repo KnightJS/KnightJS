@@ -1,0 +1,24 @@
+{
+  "name": "knightjs",
+  "version": "1.0.0",
+  "description": "Lightweight NodeJS Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnightJS/KnightJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework",
+    "knightjs"
+  ],
+  "author": "I am Programmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KnightJS/KnightJS/issues"
+  },
+  "homepage": "https://github.com/KnightJS/KnightJS#readme"
+}
